@@ -43,3 +43,9 @@ The platform has significant potential for expansion in various directions:
 | **Immutability** | Once created, the core content of memories cannot be altered |
 | **MetaMask Integration** | Seamless interaction using MetaMask wallet |
 | **EduChain Compatibility** | Optimized for deployment on EduChain testnet | 
+
+
+## Contract Address
+``` 0x6ca12d3a903d29ce1d1531d145f4242f1f50c36d ```
+
+![image](https://github.com/user-attachments/assets/bcc82ba9-7d5d-4c84-852c-2688943cc85a)
