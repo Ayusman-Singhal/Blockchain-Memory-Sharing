@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/educhain/static/css/main.067414cb.css",
+    "main.js": "/educhain/static/js/main.69a38b1b.js",
+    "index.html": "/educhain/index.html",
+    "main.067414cb.css.map": "/educhain/static/css/main.067414cb.css.map",
+    "main.69a38b1b.js.map": "/educhain/static/js/main.69a38b1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.067414cb.css",
+    "static/js/main.69a38b1b.js"
+  ]
+}
