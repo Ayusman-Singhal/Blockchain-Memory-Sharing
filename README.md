@@ -52,3 +52,13 @@ The platform has significant potential for expansion in various directions:
 ``` 0x6ca12d3a903d29ce1d1531d145f4242f1f50c36d ```
 
 ![image](https://github.com/user-attachments/assets/bcc82ba9-7d5d-4c84-852c-2688943cc85a)
+
+
+## Frontend Preview
+
+![image](https://github.com/user-attachments/assets/00894279-c940-4b4b-a60a-6e2dfe5bdfc4)
+
+
+![image](https://github.com/user-attachments/assets/a42f860a-20a7-4d47-8f94-13a3fce2bc5f)
+
+![Screenshot 2025-03-21 152025](https://github.com/user-attachments/assets/bd5ebc82-1e18-44f9-a2ce-1c796b2d56b2)
