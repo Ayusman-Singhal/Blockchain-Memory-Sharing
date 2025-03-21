@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Blockchain-Memory-Sharing/static/css/main.691a90d5.css",
-    "main.js": "/Blockchain-Memory-Sharing/static/js/main.fce216f7.js",
+    "main.js": "/Blockchain-Memory-Sharing/static/js/main.6088b231.js",
     "index.html": "/Blockchain-Memory-Sharing/index.html",
     "main.691a90d5.css.map": "/Blockchain-Memory-Sharing/static/css/main.691a90d5.css.map",
-    "main.fce216f7.js.map": "/Blockchain-Memory-Sharing/static/js/main.fce216f7.js.map"
+    "main.6088b231.js.map": "/Blockchain-Memory-Sharing/static/js/main.6088b231.js.map"
   },
   "entrypoints": [
     "static/css/main.691a90d5.css",
-    "static/js/main.fce216f7.js"
+    "static/js/main.6088b231.js"
   ]
 }
